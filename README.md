@@ -2,7 +2,7 @@
 
 # RevBot
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub Release](https://img.shields.io/github/v/release/exfil0/RevBot)](https://github.com/exfil0/RevBot/releases) [![GitHub Issues](https://img.shields.io/github/issues/exfil0/RevBot)](https://github.com/exfil0/RevBot/issues) [![GitHub Stars](https://img.shields.io/github/stars/exfil0/RevBot)](https://github.com/exfil0/RevBot/stargazers)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub Issues](https://img.shields.io/github/issues/exfil0/RevBot)](https://github.com/exfil0/RevBot/issues) [![GitHub Stars](https://img.shields.io/github/stars/exfil0/RevBot)](https://github.com/exfil0/RevBot/stargazers)
 
 RevBot is a sophisticated, modular reverse shell generator crafted for penetration testing, red team operations, and cybersecurity education. It enables the creation of customizable reverse shells in multiple languages (Python, PowerShell, Bash), supporting TCP and HTTP/WebSocket protocols for stealthy command and control (C2). With built-in encryption (AES-256, TLS), data encoding, persistence mechanisms, multi-client management, file transfers, and code obfuscation, RevBot is designed to be extensible and secure. Emphasizing ethical use, it includes comprehensive logging and warnings to ensure responsible deployment.
 
