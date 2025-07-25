@@ -1,3 +1,5 @@
+![RevBot Logo](https://github.com/exfil0/RevBot/blob/main/REVBOT_LOGO_1.png)
+
 # RevBot
 
 RevBot is an advanced reverse shell generator designed for penetration testing and educational purposes. It supports multiple client languages (Python, PowerShell, Bash) and protocols (TCP, HTTP with WebSocket for C2), with features like encryption (AES, TLS), encoding (base64, zlib), persistence mechanisms, multi-client session management, file transfers with checksums, and obfuscation. The tool emphasizes modularity and scalability, making it easy to extend for custom needs.
